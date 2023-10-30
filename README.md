@@ -1,1 +1,0 @@
-# PardaloteGuitars.github.io
