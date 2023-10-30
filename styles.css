@@ -1,0 +1,25 @@
+body {
+    background-image: url(Images/Background.JPG);
+    background-repeat: no-repeat center fixed;
+    background-attachment: fixed;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+}
+.center {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1 {
+    color: antiquewhite;
+    font-family: garamond;
+    font-size: 20pt;
+    text-align: center;
+
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
